@@ -1,4 +1,4 @@
-gitsteps:
+steps:
   # Step 1: Deploy langsung ke App Engine tanpa membangun Docker image
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: gcloud
